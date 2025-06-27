@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración sensibles
+.streamlit/secrets.toml
+
+# Archivos del sistema
+__pycache__/
+*.pyc
+
+# Configs de VS Code (opcional)
+.vscode/
